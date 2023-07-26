@@ -1,0 +1,243 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Oswald", sans-serif;
+}
+.back {
+  background-color: #f7faf8;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+
+.navbar {
+  background-color: #0e0b16;
+  height: 65px;
+  width: 100%;
+  color: red;
+}
+
+.navchild {
+  position: absolute;
+}
+
+.trans {
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+}
+.icon1 {
+  margin-top: 0.6rem;
+  height: 2.5rem;
+  margin-left: 2rem;
+}
+.navbutton {
+  height: 1.4rem;
+  margin-left: 4rem;
+  margin-bottom: 0.3rem;
+}
+
+.navbutton3 {
+  height: 1.4rem;
+  margin-left: 21rem;
+  margin-bottom: 0.3rem;
+}
+
+.navST {
+  position: absolute;
+  margin-left: 20rem;
+  height: 2.3rem;
+  width: 6rem;
+  margin-top: 0.8rem;
+  color: white;
+  background-color: #3752db;
+  border: 0;
+  border-radius: 0.5rem;
+  font-weight: 600;
+}
+.followUpp {
+  position: absolute;
+  margin-top: 4rem;
+  margin-left: 8rem;
+  font-size: 2.4rem;
+}
+.getmore {
+  position: absolute;
+  margin-top: 3rem;
+  margin-left: 8rem;
+  font-size: 0.8rem;
+  font-weight: 5;
+}
+
+.FollowUpTable {
+  box-shadow: 2px 2px 8px 8px rgba(37, 37, 37, 0.2);
+  background-color: white;
+  margin-left: 4rem;
+  /* border: 1px solid; */
+  position: absolute;
+  margin-top: 9rem;
+  border-radius: 1rem;
+  height: 30rem;
+  width: 70%;
+  color: black;
+}
+.followUp {
+  position: absolute;
+  margin-left: 1.6rem;
+  font-size: 1.3rem;
+  margin-top: 1.3rem;
+  /* font-family:  "Cabin, sans-serif"; */
+}
+
+.filter {
+  position: absolute;
+  margin-left: 45rem;
+  margin-top: 1.6rem;
+  font-size: 0.8rem;
+  color: #667085;
+}
+.sendnow {
+  position: absolute;
+  margin-top: 1.5rem;
+  margin-left: 48rem;
+  font-size: 1rem;
+}
+.hrtag {
+  margin-top: 4rem;
+  size: 10px;
+}
+
+.tableatt {
+  position: absolute;
+  background-color: #f7faf8;
+  height: 2rem;
+  width: 100%;
+}
+
+/* side box */
+
+.SideBox {
+  margin-top: 5rem;
+  box-shadow: 0px 8px 8px rgba(37, 37, 37, 0.2);
+  margin-left: 68rem;
+  border: 1px solid;
+  position: absolute;
+  border-radius: 0.5rem;
+  height: 15%;
+  width: 13%;
+  color: black;
+  background-color: white;
+}
+
+.SideBox2 {
+  margin-top: 14rem;
+  box-shadow: 0px 8px 8px rgba(37, 37, 37, 0.2);
+  margin-left: 68rem;
+  border: 1px solid;
+  position: absolute;
+  border-radius: 0.5rem;
+  height: 15%;
+  width: 13%;
+  color: black;
+  background-color: white;
+}
+
+.SideBox3 {
+  margin-top: 23rem;
+  box-shadow: 0px 8px 8px rgba(37, 37, 37, 0.2);
+  margin-left: 68rem;
+  border: 1px solid;
+  position: absolute;
+  border-radius: 0.5rem;
+  height: 15%;
+  width: 13%;
+  color: black;
+  background-color: white;
+}
+.SideBox4 {
+  margin-top: 32rem;
+  box-shadow: 0px 8px 8px rgba(37, 37, 37, 0.2);
+  margin-left: 68rem;
+  border: 1px solid;
+  position: absolute;
+  border-radius: 0.5rem;
+  height: 15%;
+  width: 13%;
+  color: black;
+  background-color: white;
+}
+.boxContant {
+  position: absolute;
+  /* font-family: cursive; */
+  color: #667085;
+  font-size: 0.8rem;
+  margin-left: 2rem;
+  margin-top: 0.7rem;
+}
+.boxContant2 {
+  position: absolute;
+  /* font-family: cursive; */
+  font-size: 2rem;
+  margin-left: 3.8rem;
+  margin-top: 1rem;
+  font-weight: bold;
+}
+.info {
+  position: absolute;
+  margin-left: 0.5rem;
+  margin-top: 0.6rem;
+}
+
+.heading1 {
+  position: absolute;
+  margin-left: 3rem;
+  margin-top: 0.5rem;
+}
+.heading2 {
+  position: absolute;
+  margin-left: 15rem;
+  margin-top: 0.5rem;
+}
+.heading3 {
+  position: absolute;
+  margin-left: 28rem;
+  margin-top: 0.5rem;
+}
+.heading4 {
+  position: absolute;
+  margin-top: 0.5rem;
+  margin-left: 40rem;
+}
+.heading5 {
+  position: absolute;
+  margin-left: 50rem;
+  margin-top: 0.5rem;
+}
+.headde {
+  font-size: 0.7rem;
+  color: #667085;
+}
+
+.hrtag2 {
+  margin-top: 2rem;
+}
+
+.checkbox {
+  position: absolute;
+  margin-top: 28px;
+  margin-left: 14px;
+}
+
+.data {
+  margin-top: 20px;
+}
+
+.tabledata {
+  font-size: 0.9rem;
+  font-weight: lighter;
+}
