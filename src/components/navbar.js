@@ -73,7 +73,7 @@ const Navbar = () => {
           <button className="trans ">{element6}</button>
           <button className="trans ">{element7}</button>
           <button className="trans ">{element8}</button>
-          <button className="navST"> Settings</button>
+          <button className="navST"> Setting</button>
         </div>
       </div>
     </>
